@@ -1671,7 +1671,7 @@
 			border-left: 0;
 			border-right: 0;
 			color: #cc6600;
-			color: rgba(255, 255, 255, 0.75);
+			color: rgb(204, 102, 0);
 			font-size: 2.35em;
 			font-weight: 700;
 			line-height: 1.3em;
@@ -1680,7 +1680,7 @@
 
 			#banner h2 strong {
 				font-weight: 800;
-				color: inherit;
+				color: #cc6600;
 			}
 
 			#banner h2:before {
